@@ -7,6 +7,6 @@ return PI * raio * raio
 
 module.exports.circleArea = circleArea;
 
-module.exports.squareArea = function(lado) {
-	return lado * lado;
+module.exports.squareArea = function(l) {
+	return l * l;
 };
